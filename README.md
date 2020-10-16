@@ -1,6 +1,6 @@
 # devoir-git
 
-01 Nom: 
+01 Nom:
 01 github:
 02 Nom: PACHY Victor
 02 github:
