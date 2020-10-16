@@ -3,7 +3,7 @@
 01 Nom: Quignon Léo 
 01 github: quignonleo
 02 Nom: PACHY Victor
-02 github:
+02 github: pachyvictor
 03 Nom: Thibaut Arrat
 03 github:
 04 Nom: Cortes Do Nascimento Ralf 
